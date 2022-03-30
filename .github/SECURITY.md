@@ -1,6 +1,6 @@
 ## Security Disclosure
 
-This document provides guidelines on vulnerabilities in the projects, and components that the [Acknology](https://github.com/AcknologyHQ) manages and how to report them. Security is important to us.
+This document provides guidelines on disclosure of vulnerabilities in the projects, and components that the [Acknology](https://github.com/AcknologyHQ) manages and how to report them. Security is important to us.
 
 <br>
 
