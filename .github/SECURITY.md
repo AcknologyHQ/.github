@@ -18,7 +18,7 @@ Any method that circumvents the normal auth process is a vulnerability and shoul
 
 **Reporting vulnerabilities**
 
-Please email reports about any security related issues you find to `security@acknology.co`. Your email will be acknowledged, and you'll receive a more detailed response to your email indicating the next steps we take in handling your report. 
+Please email reports about any security related issues you find to `security AT acknology DOT co`. Your email will be acknowledged, and you'll receive a more detailed response to your email indicating the next steps we take in handling your report. 
 
 Please use a descriptive subject line for your report email. 
 For Example: `Security issue: [Vulnerability] in [Project or Component] - [Severity]`
@@ -32,7 +32,7 @@ In addition, please include the following information along with your report:
 * An explanation who can exploit this vulnerability, and what they gain when doing so -- write an attack scenario. This will help us evaluate your report quickly, especially if the issue is complex.
 * Whether this vulnerability public or known to third parties. If it is, please provide details.
 
-If you believe that an existing (public) issue is security-related, please send an email to `security@acknology.co`. The email should include the issue ID and a short description of why it should be handled according to this security policy.
+If you believe that an existing (public) issue is security-related, please send an email to `security AT acknology DOT co`. The email should include the issue ID and a short description of why it should be handled according to this security policy.
 
 <br>
 
@@ -40,7 +40,7 @@ If you believe that an existing (public) issue is security-related, please send 
 
 > we currently do not have a bug-bounty program in place. 
 
-If you find a vulnerability that you believe is a security issue, please email us at `security@acknology.co`.
+If you find a vulnerability that you believe is a security issue, please email us at `security AT acknology DOT co`.
 
 
 <br>
