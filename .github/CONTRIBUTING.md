@@ -1,84 +1,114 @@
-## Welcome to Acknology contributing guide 
+# 📄 Contributing Guide 
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on respective repo.
-
-**Before you contribute**
-
-Read our [Code of Conduct](https://github.com/AcknologyHQ/.github/blob/main/.github/CODE_OF_CONDUCT.md) to keep your contribution approachable and respectable in the community.
+This contributing guide provides an overview of the process for reporting bugs and submitting pull requests to the open source project, as well as guidelines for following the [code of conduct](https://github.com/AcknologyHQ/.github/blob/main/.github/CODE_OF_CONDUCT.md). It is important to have a clear and transparent process for contributions, as this can help to ensure that the project is well-maintained and welcoming to all contributors.
 
 <br>
 
-## Types of contributions accepted
+# Introduction
 
-* 📣 **Discussions** - Discussing the project, its goals and have conversations.
-
-* 🐞 **Issues** - Report an issue or suggest a feature.
-
-* 🌏 **Translations** - Translations for the project if required.
-
-* 🛠️ **Pull Request** *[PR]* - is a way to suggest changes in our repository to make small changes such as a typo, sentence fix, or a broken link, or more specific to do code contribution to Add Feature, Fix issues, Fix Bugs etc.. in the project. 
+Thank you for considering contributing to our open source work. We welcome contributions of all kinds, including code, documentation, bug reports, and more. This guide outlines the process for making contributions to a project, and we appreciate your efforts in helping us make it better.
 
 <br>
 
-## New contributor guide
+# Code of Conduct
 
-> Read [opensource.guide](https://opensource.guide/how-to-contribute/) to learn how to contribute to any Open-Source project.
+We expect all contributors to to follow our [Code of Conduct](https://github.com/AcknologyHQ/.github/blob/main/.github/CODE_OF_CONDUCT.md). Please make sure to read and understand the code of conduct before making a contribution to keep your contribution approachable and respectable in the community.
+
+<br>
+
+# Getting started as a new contributor
+
+Read  [opensource.guide](https://opensource.guide/how-to-contribute/)  to learn how to contribute to any Open-Source project.
 
 To get an overview of the project, read the `README.md` file in the repo or repo `wiki`. 
 
 <br>
 
-## Getting started
+# Ways to Contribute
 
-In this guide you will get an overview of the contribution workflow from opening an issue, creating a PR, reviewing, and merging the PR.
+We welcome contributions of all kinds. If you have an idea for a contribution that isn't listed here, please reach out and share it with us.
 
 <br>
 
-### 🐞 Issues
+## 🐞 Bugs and Issues
 
 **Create a new issue** 
 
-before you create a new issue, [search if issue already exists](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests). If a related issue doesn't exist, you can open a new issue using a relevant issue form.
+If you encounter a bug or issue while using a open source work, or if you have an idea for a new feature or improvement, we encourage you to report it to us. To report a bug or issue, please follow these steps:
 
-**Solve an issue**
+1. Search for similar issues in the `issue tracker` of project to see if the issue has already been reported.
+   
+2. If the issue has not been reported, create a new issue in the issue tracker and provide as much detail as possible about the issue, including steps to reproduce it and any relevant technical information.
+   
+3. If you are able to provide a fix for the issue, you are welcome to submit a pull request (see below for more information).
 
-Scan through our **existing issues** to find one that interests you. You can narrow down the search using `labels` as filters. See **Labels** for more information. As a general rule, we don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a PR with a fix.
+
+
+**Solving an issue**
+
+As a general rule, we don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a PR with a fix.
+
+1. To solve an issue on a project, find an open issue that you would like to work on. 
+   
+2. Comment on the issue to let others know that you are planning to work on it.
+   
+1. Follow the Submitting Pull Requests guide below.
+
+2. Be sure to reference the original issue in your pull request.
+   
+3. Your pull request will be reviewed and merged by a maintainer once it has been approved. 
 
 <br>
 
-### 🛠️ Make Changes
+## ⬆️ Submitting Pull Requests
 
-When you're finished with the changes, create a pull request, also known as a PR. Before you contribute by **PR** please make sure
+We welcome pull requests to fix bugs and implement new features in our open source work. To submit a pull request, follow these steps:
 
+1. Fork the repository and create a new branch for your changes.
 
-* Fill the "Ready for review" template so that we can review your PR. This template helps reviewers understand your changes as well as the purpose of your pull request.
+2. Make your changes, including tests to cover your changes.
+Ensure that all tests pass and that your code follows the style guide used in the project.
 
-* Don't forget to [link PR to issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) if you are solving one.
+3. Create a pull request in the repository, describing your changes and referencing any related issues.
 
-* As you update your PR and apply changes, [mark each conversation as resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations). This will help us to understand how your PR is progressing.
+4. Wait for your pull request to be reviewed and merged by a maintainer.
 
-* We may ask for changes to be made before a PR can be merged, either using suggested changes or pull request comments. You can apply [suggested changes](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request) directly through the UI. You can make any other changes in your fork, then commit them to your branch.
+<br>
 
-* If you run into any merge issues, checkout this [git tutorial](https://lab.github.com/githubtraining/managing-merge-conflicts) to help you resolve merge conflicts and other issues.
+## 📃 Contributing to Documentation
 
-* All contributions should use `custom-named` branch for PRs
-    * to fix a critical issue use `hot-fix-cve_name`
-    * to add a feature use `feature-feature_name` 
-    * to fix a bug use `bug-fix-bug_name`
-    * to update docs use `docs-docs_name`
-    * to fix typos or spelling mistakes in content use `fix-content-name` 
+We welcome contributions to the documentation of the project. If you see an error or have an idea for improvement, you can submit a pull request with `[doc]` prefix to the PR / issue title, this can include fixing typos, correcting grammatical errors, updating outdated information, and more. 
 
-* for **maintainer** don't commit directly to `main` branch unless its absolutely to required
+We appreciate your efforts in helping to improve the documentation and make it as accurate and useful as possible
 
-* check for typos or spelling mistakes in the changes before you commit
+<br>
 
-* format document before submission to ensure it is readable and easy to review
+## 📣 Other Ways to Contribute
 
-**Your PR is merged!**
+There are many other ways to contribute to our open source work, including:
 
-Congratulations 🎉🎉 The Acknology team thanks you ✨.
+* Participating in discussions and answering questions in the community.
+  
+* Translating documentation or the user interface into different languages.
 
-Once your PR is merged, your contributions will be publicly visible on the repo.
+* Helping to triage and prioritize issues in the issue tracker.
 
+* Writing or improving documentation, including tutorials and guides.
 
-<!-- based on https://github.com/github/docs/blob/main/CONTRIBUTING.md -->
+* Sharing our work with others and helping to spread the word about the project.
+
+* Providing feedback and ideas for new features and improvements.
+
+* Creating or improving examples and demos.
+
+There are many ways that individuals can contribute to an open source project beyond writing code or submitting pull requests. It is important to be open to different types of contributions and to find ways to engage and include a diverse range of contributors. This can help to build a strong and supportive community around the project.
+
+<br>
+
+## ✨ **Thank You**
+
+We greatly appreciate you for contributing to our open source work at Acknology Co. We appreciate your efforts in helping us make our projects better and are grateful for your support. 
+
+Your contributions are an important part of what makes our open source work a success, and we look forward to working with you to continue improving our projects.
+
+-- Acknology Co.
