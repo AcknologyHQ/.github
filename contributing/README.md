@@ -1,9 +1,8 @@
-# Contributing to Acknology
+# Contribute to Acknology's Open Source Work
 
-Check out our [contributing guide](https://github.com/AcknologyHQ/.github/blob/main/.github/CONTRIBUTING.md) to see all the ways you can participate.
+See our [contributing guide](https://github.com/AcknologyHQ/.github/blob/main/.github/CONTRIBUTING.md) for more information on how you can get involved in a project.
 
-Here, you'll find additional information that might be helpful as you work on a repo.
-
+This page provides additional resources and information that might be helpful as you work on the repository.
 
 * How to [use labels](https://github.com/AcknologyHQ/.github/blob/main/contributing/how-to-use-labels.md)
 
