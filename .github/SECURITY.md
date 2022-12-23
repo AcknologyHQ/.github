@@ -1,51 +1,51 @@
-## Security Disclosure
+# Security Disclosure
 
-This document provides guidelines on disclosure of vulnerabilities in the projects, and components that the [Acknology](https://github.com/AcknologyHQ) manages and how to report them. Security is important to us.
+This document provides guidelines on disclosure of vulnerabilities of [Acknology Co.](https://github.com/AcknologyHQ) open source work that are maintained by or we are a part of and how to report them. 
 
-<br>
+We take the security and stability of our open-source work seriously, and we appreciate the efforts of researchers and security professionals in helping us identify and address potential vulnerabilities or bugs. If you have discovered a security issue in one of our open-source projects, we encourage you to report it to us as soon as possible.
 
-## Vulnerabilities
-
-**What is a vulnerability?**
-
-Given the [Acknology](https://github.com/AcknologyHQ)'s many components and projects, a vulnerability could occur in one or multiple places or particularly in specific part of our projects and components.
-
-One of the most critical parts of any system is input handling. If malicious input can trigger side effects or incorrect behavior, this is a bug, and likely a vulnerability.
-
-Any method that circumvents the normal auth process is a vulnerability and should be reported.
+For any inquiries or to report any potential security vulnerabilities, please do not hesitate to reach out to us via email at `security [AT] acknology [DOT] co`. We greatly appreciate your assistance in helping us
 
 <br>
 
-**Reporting vulnerabilities**
+## **Reporting vulnerabilities**
 
-Please email reports about any security related issues you find to `security AT acknology DOT co`. Your email will be acknowledged, and you'll receive a more detailed response to your email indicating the next steps we take in handling your report. 
+If you have discovered a vulnerability or security issue in an open-source project that we are a part of, we encourage you to report it to us as soon as possible. Please follow these guidelines when submitting a report:
 
-Please use a descriptive subject line for your report email. 
-For Example: `Security issue: [Vulnerability] in [Project or Component] - [Severity]`
+1. Describe the issue in detail, including the affected systems or products, the potential impact, and any steps you have taken to reproduce the issue.
 
-In addition, please include the following information along with your report: 
+1. Provide detailed instructions on how to reproduce the issue, including any necessary steps or resources.
 
-* Your name and affiliation (if any).
-* The `name` of the project you are reporting on.
-* The `CVE` of the vulnerability you are reporting on (if any).
-* A description of the technical details of the vulnerabilities. It is very important to let us know how we can reproduce your findings.
-* An explanation who can exploit this vulnerability, and what they gain when doing so -- write an attack scenario. This will help us evaluate your report quickly, especially if the issue is complex.
-* Whether this vulnerability public or known to third parties. If it is, please provide details.
+1. If possible, include any relevant log files, screen captures, or other supporting material to help us understand and address the issue.
 
-If you believe that an existing (public) issue is security-related, please send an email to `security AT acknology DOT co`. The email should include the issue ID and a short description of why it should be handled according to this security policy.
+1. Keep the issue confidential until it has been resolved. Do not disclose the issue to any third parties or public forums until we have had a chance to address it.
+
+1. If the issue affects multiple projects or organizations, please notify all relevant parties in a timely manner.
+
+1. If the issue is serious and requires immediate attention, please mark it as "critical" in your report.
+
+1. Please do not create a public issue or pull request (PR) when reporting potential vulnerabilities. Instead, please contact us via email. Thank you.
+
+We will do our best to acknowledge and respond to your report in a timely manner. Please do not hesitate to contact us if you have any questions or concerns about the reporting process. Thank you for helping us keep our open-source projects secure.
 
 <br>
 
 **Bug Bounty**
 
-> we currently do not have a bug-bounty program in place. 
+At this moment, our company does not have any formal system in place for rewarding individuals, researchers, and security professionals who identify and report potential security vulnerabilities or "bugs" in our products, services, and open source projects. 
 
-If you find a vulnerability that you believe is a security issue, please email us at `security AT acknology DOT co`.
+Currently, we do not have a formal mechanism for acknowledging or compensating these individuals for their efforts in this regard. However, we greatly value the contributions of these individuals and their efforts to help ensure the security and integrity of our offerings. We appreciate their time and dedication to helping us improve the security of our products, services, and open source projects. 
+
+While we may not have a formal bug bounty program at this time, we encourage these individuals to continue to report any potential vulnerabilities they may discover and will work to address them as promptly as possible.
 
 
 <br>
 <br>
 
-✨ **Thank you** ✨ for your help in keeping the `Acknology` secure! 
+## ✨ **Thank you** 
 
--- the Acknology team
+We greatly appreciate your interest in submitting a vulnerability or bug report to our company. We value the efforts of researchers and security professionals in helping us identify and address potential issues in our systems and products. 
+
+While we may not have a formal bug-bounty program in place at this time, we still appreciate the time and effort you have taken to alert us to potential vulnerabilities or bugs and will do our best to address them in a timely and effective manner.
+
+-- Acknology Co.
