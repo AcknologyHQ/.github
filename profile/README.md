@@ -4,7 +4,7 @@
 
 Hi there 👋 welcome to [@AcknologyHQ](https://github.com/AcknologyHQ/). We are a provider of engineering solutions, focused on delivering innovative and advanced solutions to a variety of industries and enterprises.
 
-If you're interested in working with us or hiring us to help grow and innovate your business, please in touch we are always looking for new opportunities of working togetherto help your business succeed.
+We are always looking for ways to expand our network and open to exploring new partnership opportunities that can help grow and innovate your business. If you're interested in working with us or hiring us, please don't hesitate to reach out. We would love the opportunity to support your success.
 
 <br>
 
