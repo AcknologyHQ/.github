@@ -4,7 +4,7 @@ This document provides guidelines on disclosure of vulnerabilities of [Acknology
 
 We take the security and stability of our open-source work seriously, and we appreciate the efforts of researchers and security professionals in helping us identify and address potential vulnerabilities or bugs. If you have discovered a security issue in one of our open-source projects, we encourage you to report it to us as soon as possible.
 
-For any inquiries or to report any potential security vulnerabilities, please do not hesitate to reach out to us via email at `security [AT] acknology [DOT] co`. We greatly appreciate your assistance in helping us
+For any inquiries or to report any potential security vulnerabilities, please do not hesitate to reach out to us via email at `security [AT] acknology [DOT] co`. We greatly appreciate your assistance in helping us.
 
 <br>
 
@@ -32,7 +32,7 @@ We will do our best to acknowledge and respond to your report in a timely manner
 
 **Bug Bounty**
 
-At this moment, our company does not have any formal system in place for rewarding individuals, researchers, and security professionals who identify and report potential security vulnerabilities or "bugs" in our products, services, and open source projects. 
+At this moment, Acknology does not have any formal system in place for rewarding individuals, researchers, and security professionals who identify and report potential security vulnerabilities or "bugs" in our products, services, and open source projects. 
 
 Currently, we do not have a formal mechanism for acknowledging or compensating these individuals for their efforts in this regard. However, we greatly value the contributions of these individuals and their efforts to help ensure the security and integrity of our offerings. We appreciate their time and dedication to helping us improve the security of our products, services, and open source projects. 
 
